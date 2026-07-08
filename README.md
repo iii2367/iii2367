@@ -51,14 +51,15 @@ SOLID • DRY • KISS • YAGNI
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iii2367&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iii2367&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iii2367&custom_title=Activity%20Graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="center"><a href="https://u8views.com/github/rukiamuq-hard"><img src="https://u8views.com/api/v1/github/profiles/216137840/views/day-week-month-total-count.svg"></a></h3>
+
 
 ---
 
 ## Contact
+[![Telegram](https://img.shields.io/badge/Telegram-@IiI2367-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IiI2367)
+<br>
+[![Email](https://img.shields.io/badge/Email-iii2367813@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iii2367813@gmail.com) 
 
-* 📧 Email: [mi-email@example.com](mailto:mi-email@example.com)
-* 💬 Telegram: @mi_username
+
