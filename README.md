@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there 👋 I'm  Oleksandr
 
-<!--
-**iii2367/iii2367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** focused on building maintainable, scalable, and extensible software.
 
-Here are some ideas to get you started:
+I primarily build backend services with **Go** and native applications with **C++**. I'm particularly interested in software architecture, modular design, and building systems that remain easy to evolve as requirements grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* 🏗️ Software Engineering student
+* ⚙️ Building backend services with Go
+* 💻 Developing native desktop applications in C++
+* 🗄️ Working with PostgreSQL and SQLite
+* 🐳 Containerizing applications with Docker
+* 🎯 Exploring software architecture, distributed systems, and rendering technologies
+  
+---
+
+## Tech Stack
+
+### Languages 
+[![My Skills](https://skillicons.dev/icons?i=golang,cpp)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,neovim,postgres,visualstudio,cmake,docker)](https://skillicons.dev)
+
+---
+
+## Engineering Philosophy
+
+I believe software should remain easy to evolve as requirements change.
+
+When designing systems, I focus on:
+
+- Maintainable architecture
+- Clear domain boundaries
+- Loose coupling
+- Extensibility
+- Pragmatic use of event-driven architecture
+
+**Architectural styles**
+
+Hexagonal Architecture • Clean Architecture • Event-Driven Design
+
+**Design principles**
+
+SOLID • DRY • KISS • YAGNI
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iii2367&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iii2367&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Contact
+
+* 📧 Email: [mi-email@example.com](mailto:mi-email@example.com)
+* 💬 Telegram: @mi_username
