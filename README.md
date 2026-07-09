@@ -23,7 +23,7 @@ I primarily build backend services with **Go** and native applications with **C+
 [![My Skills](https://skillicons.dev/icons?i=golang,cpp)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,neovim,postgres,visualstudio,cmake,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,neovim,postgres,visualstudio,cmake,docker&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -51,7 +51,7 @@ SOLID • DRY • KISS • YAGNI
 
 ## GitHub Stats
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iii2367&custom_title=Activity%20Graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iii2367&custom_title=Activity%20Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
