@@ -53,6 +53,8 @@ SOLID • DRY • KISS • YAGNI
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iii2367&custom_title=Activity%20Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Cloud Storage](docs/cloud_storage.svg)
+
 ---
 
 ## Contact

@@ -1,0 +1,61 @@
+<svg width="845" height="296" viewBox="0 0 845 296" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+    <rect width="845" height="296" fill="#1A1B26"/>
+
+    <circle cx="730" cy="70" r="95" fill="#7AA2F7" fill-opacity="0.06"/>
+    <circle cx="790" cy="250" r="120" fill="#BB9AF7" fill-opacity="0.05"/>
+    <circle cx="660" cy="210" r="45" fill="#73DACA" fill-opacity="0.08"/>
+
+    <path d="M78 88H168C175 88 180 93 180 100V186C180 193 175 198 168 198H58C51 198 46 193 46 186V110C46 103 51 98 58 98H96L108 88H78Z"
+          fill="#7AA2F7"/>
+ 
+    <rect x="86" y="118" width="55" height="62" rx="6" fill="#C0CAF5"/>
+    <path d="M126 118V136H141" stroke="#1A1B26" stroke-width="3"/>
+
+    <circle cx="215" cy="122" r="6" fill="#73DACA"/>
+    <circle cx="250" cy="150" r="6" fill="#73DACA"/>
+    <circle cx="215" cy="178" r="6" fill="#73DACA"/>
+
+    <line x1="220" y1="122" x2="244" y2="146" stroke="#73DACA" stroke-width="3"/>
+    <line x1="220" y1="178" x2="244" y2="154" stroke="#73DACA" stroke-width="3"/>
+
+    <text
+        x="310"
+        y="105"
+        fill="#C0CAF5"
+        font-family="Segoe UI, Inter, sans-serif"
+        font-size="34"
+        font-weight="700">
+        Cloud Storage
+    </text>
+
+    <text
+        x="310"
+        y="145"
+        fill="#A9B1D6"
+        font-family="Segoe UI, Inter, sans-serif"
+        font-size="18">
+        Modular cloud storage application written in Go
+    </text>
+
+    <text
+        x="310"
+        y="172"
+        fill="#A9B1D6"
+        font-family="Segoe UI, Inter, sans-serif"
+        font-size="18">
+        JWT Authentication • Hierarchical Storage • PostgreSQL
+    </text>
+
+    <text
+        x="310"
+        y="225"
+        fill="#7DCFFF"
+        font-family="Consolas, monospace"
+        font-size="16">
+        github.com/iii2367/cloud-storage
+    </text>
+
+    <rect y="289" width="845" height="7" fill="#7AA2F7"/>
+
+</svg>
